@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f1d22e182f3a74ebfb381cbd973417, type: 3}
+  m_Name: Cars
+  m_EditorClassIdentifier: 
+  carChoices:
+  - name: Car1
+    image: {fileID: 21300000, guid: ae84159197d46624fbf53d7b38c40679, type: 3}
+    speed: 2
+  - name: Car2
+    image: {fileID: 21300000, guid: 98b542c8db8fb324da4172123d5a11dd, type: 3}
+    speed: 2
+  - name: Car3
+    image: {fileID: 21300000, guid: 2087c8ea6f8dfa847955779612d6ccd8, type: 3}
+    speed: 2
+  - name: Car4
+    image: {fileID: 21300000, guid: 55a49a787132b344097bb1e660744d75, type: 3}
+    speed: 2
+  - name: Car5
+    image: {fileID: 21300000, guid: ef21e63d9b77b9a429a80ff367731d1f, type: 3}
+    speed: 2
+  - name: Car6
+    image: {fileID: 21300000, guid: 46fc500309703e44c938475aa63c50c8, type: 3}
+    speed: 2
+  - name: Car7
+    image: {fileID: 21300000, guid: e888b54df6aac0941a6212075a3b0bbe, type: 3}
+    speed: 2
+  - name: Car8
+    image: {fileID: 21300000, guid: b5b12994be0d55944aaa25c453d10caa, type: 3}
+    speed: 2
+  - name: Car9
+    image: {fileID: 21300000, guid: 4d7277d4e3099d14687f89076388261b, type: 3}
+    speed: 1.4
+  - name: Car10
+    image: {fileID: 21300000, guid: f00cbb912392c0c4fba74a7d0d42d2c3, type: 3}
+    speed: 3
